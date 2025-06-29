@@ -145,6 +145,8 @@ BODY: {
   "_id": ObjectId,
   "userId": "user123",
   "projectId": "proj567",
+  "lat": 22.34,
+  "long": 221.34,
   "text": "Colonial territory...",
   "timestamp": ISODate,
   "media": ["s3://bucket/note123-img1.png"]
