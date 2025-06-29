@@ -1,4 +1,4 @@
-# Project Plan: Interactive Historical Map System
+# MAPX Sprint Plan:
 
 ### Procedure
 
